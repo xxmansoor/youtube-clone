@@ -1,0 +1,37 @@
+.row{
+    display: flex;
+    justify-content: space-around;
+
+}
+.col-3{
+    margin-right: 100px;
+}
+
+.form-control{
+    width: 150px;
+    border-radius: 20px;
+}
+#speak{
+    margin-top: 8px;
+    font-size: large;
+    margin-left: 10px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+i{
+    margin-right: 10px;
+}
+
+button{
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+#para{
+    font-size: 18px;
+    margin-top: 30px;
+}
